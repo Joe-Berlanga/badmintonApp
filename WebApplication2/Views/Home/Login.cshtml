@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+@model WebApplication2.Models.User.Login
+
+@using (Html.BeginForm("Login", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="row">
+        <div class="form-group col-md-8">
+            <label for="exampleInputEmail1">Email address</label>
+            @Html.TextBoxFor(model => model.EmailAddress)
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Password</label>
+            @Html.PasswordFor(model => model.Password)
+           
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+    </div>
+}
+

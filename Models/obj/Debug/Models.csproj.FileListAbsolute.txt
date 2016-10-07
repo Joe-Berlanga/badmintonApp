@@ -1,0 +1,7 @@
+c:\users\joe\documents\visual studio 2015\Projects\WebApplication2\Models\bin\Debug\Models.dll
+c:\users\joe\documents\visual studio 2015\Projects\WebApplication2\Models\bin\Debug\Models.pdb
+c:\users\joe\documents\visual studio 2015\Projects\WebApplication2\Models\obj\Debug\Models.dll
+c:\users\joe\documents\visual studio 2015\Projects\WebApplication2\Models\obj\Debug\Models.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\WebApplication2\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Joe\documents\visual studio 2015\Projects\WebApplication2\Models\bin\Debug\MySql.Data.dll
+C:\Users\Joe\documents\visual studio 2015\Projects\WebApplication2\Models\bin\Debug\MySql.Data.xml
